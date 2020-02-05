@@ -16,11 +16,11 @@ If you are new to GitHub, you can learn the basics of collaberation [here](https
   - [Download and Install RStudio](#download-and-install-r)
   - [Download CCSAO Data](#download-ccsao-data)
 - [Day One](#day-one)
-  - [Recommended](#recommended)
-  - [Required](#required)
+  - [Morning One](#morning-one)
+  - [Afternoon One](#fternoon-one)
 - [Day Two](#day-two)
-  - [Recommended](#recommended)
-  - [Required](#required)
+  - [Morning Two](#morning-two)
+  - [Afternoon Two](#afternoon-two)
 - [After the Workshop](#after-the-workshop)
 
 ## Workshop prep
@@ -41,23 +41,31 @@ First, you will need to download R on your computer from [CRAN](https://cran.r-p
 
 ![cran1](cran1.png)
 
-Also be sure to note that the version of R you download is compatible with the version of the operating system on your machine. For example, for Mac, the most recent version of R is compatible with OS X 10.11 (El Capitan) and higher. If you have this operating system, click on the .pkg link 
+Also be sure to note that the version of R you download is compatible with the version of the operating system on your machine. For example, for Mac, the most recent version of R is compatible with OS X 10.11 (El Capitan) and higher. If you have this operating system, click on the .pkg link. 
 
 ![cran2](cran2.png)
 
-Once the setup file is downloaded, run the file and follow the instructions to install R on your machine, using the default options.
+Once the R setup file is downloaded:  
+
+Mac users: Move the downloaded setup file to your Applications folder and follow the instructions to install R on your machine, using the default options.
+
+Windows users: Run the downloaded setup file and follow the instructions to install R on your machine, using the default options.
 
 ### What is RStudio?
 
-RStudio is an application that makes working with R easier and more fun to work with. You download RStudio in addition to R, which you already did above. RStudio creates a unified interface that will help to stay organized as you work. 
+RStudio is an application that makes working with R easier and more fun. For example, RStudio creates a unified interface that will help to stay organized as you work. You must download RStudio in addition to R itself (which you already did above).
 
 ### Download and Install RStudio
 
-You can download RStudio [here](https://rstudio.com/products/rstudio/download/#download). When you click the link, it should recognize the most appropriate version of RStudio, so simply click on the blue button that looks like this (for Mac users):
+You can download RStudio [here](https://rstudio.com/products/rstudio/download/#download). When you click the link, it should recognize the most appropriate version of RStudio for your machine, so simply click on the blue button that looks like this (for Mac users):
 
 ![rstudio1](rstudio.png)
 
+Once the RStudio setup file is downloaded:  
 
+Mac users: Move the downloaded setup file to your Applications folder and follow the instructions to install RStudio on your machine, using the default options.
+
+Windows users: Run the downloaded setup file and follow the instructions to install RStudio on your machine, using the default options.
 
 ### Download CCSAO Data
 
@@ -65,8 +73,14 @@ You can download RStudio [here](https://rstudio.com/products/rstudio/download/#d
 
 ## Day One 
 
+### Morning One
 
+### Afternoon One
 
 ## Day Two
+
+### Morning Two
+
+### Afternoon Two
 
 ## After the Workshop
