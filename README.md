@@ -37,7 +37,7 @@ For these reasons, R is an increasingly popular statistical tool.
 
 ### Download and Install R
 
-First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. Follow the appropriate links depending if you are on a Mac or Windows machine. For example, a Mac user would click here:
+First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. We will learn more about CRAN when we learn about packages in Day One. For now, follow the appropriate links depending if you are on a Mac or Windows machine. For example, a Mac user would click here:
 
 ![cran1](cran1.png)
 
@@ -47,11 +47,17 @@ Also be sure to note that the version of R you download is compatible with the v
 
 Once the setup file is downloaded, run the file and follow the instructions to install R on your machine, using the default options.
 
-
-
 ### What is RStudio?
 
-### Dowload and Install RStudio
+RStudio is an application that makes working with R easier and more fun to work with. You download RStudio in addition to R, which you already did above. RStudio creates a unified interface that will help to stay organized as you work. 
+
+### Download and Install RStudio
+
+You can download RStudio [here](https://rstudio.com/products/rstudio/download/#download). When you click the link, it should recognize the most appropriate version of RStudio, so simply click on the blue button that looks like this (for Mac users):
+
+![rstudio1](rstudio.png)
+
+
 
 ### Download CCSAO Data
 
