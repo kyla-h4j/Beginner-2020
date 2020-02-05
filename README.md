@@ -37,7 +37,15 @@ For these reasons, R is an increasingly popular statistical tool.
 
 ### Download and Install R
 
-First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. Follow the appropriate links depending if you are on a Mac or Windows machine. Also be sure to note that the version of R you download is compatible with the version of the operating system on your machine.
+First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. Follow the appropriate links depending if you are on a Mac or Windows machine. For example, a Mac user would click here:
+
+![cran1](cran1.png)
+
+Also be sure to note that the version of R you download is compatible with the version of the operating system on your machine. For example, for Mac, the most recent version of R is compatible with OS X 10.11 (El Capitan) and higher. If you have this operating system, click on the .pkg link 
+
+![cran2](cran2.png)
+
+Once the setup file is downloaded, run the file and follow the instructions to install R on your machine, using the default options.
 
 
 
