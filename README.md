@@ -37,6 +37,10 @@ For these reasons, R is an increasingly popular statistical tool.
 
 ### Download and Install R
 
+First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. Follow the appropriate links depending if you are on a Mac or Windows machine. Also be sure to note that the version of R you download is compatible with the version of the operating system on your machine.
+
+
+
 ### What is RStudio?
 
 ### Dowload and Install RStudio
