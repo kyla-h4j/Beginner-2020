@@ -69,7 +69,11 @@ Windows users: Run the downloaded setup file and follow the instructions to inst
 
 ### Download CCSAO Data
 
+In Day One of the workshop, we will focus on the Sentencing dataset which you can download [here](https://datacatalog.cookcountyil.gov/Courts/Sentencing/tg8v-tm6u). 
 
+
+
+In Day Two, you may choose to look into this dataset more deeply, or explore the other [datasets](https://datacatalog.cookcountyil.gov/browse?tags=state%27s%20attorney%20case-level) the CCSAO has made available, which capture arrest/intake, charging and disposition. 
 
 ## Day One 
 
