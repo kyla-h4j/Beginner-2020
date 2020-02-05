@@ -320,7 +320,8 @@ df.clue$Type
 
 is.na(df.clue$Type)
 
-
+		  
+		  
 # Creating new variable column that combines the strings Term and Type with the paste( ) function
 
 #Sytax: df$newvar <- value; paste(df$var1, df$var2)
