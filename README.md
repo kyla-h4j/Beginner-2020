@@ -75,7 +75,7 @@ In Day One of the workshop, we will focus on the Sentencing table. You can downl
 
 As illustrated above, click "Export" and then "CSV" to download the data as a .csv file. Save this file in a clearly labeled, easily-accesible folder. For example, you might create a folder on your Desktop called "SAO-data." This will help you easily find the data during the Afternoon session of Day One. 
 
-In Day Two, you may choose to look into the Sentencing dataset more deeply, or explore the other [datasets](https://datacatalog.cookcountyil.gov/browse?tags=state%27s%20attorney%20case-level) the CCSAO has made available, which capture arrest/intake, charging and disposition. If you are interested in a particular table, feel free to download it as well, following the steps above. Be sure to save it in the same folder as the Sentencing.csv file. 
+In Day Two, you may choose to look into the Sentencing dataset more deeply, or explore the other [datasets](https://datacatalog.cookcountyil.gov/browse?tags=state%27s%20attorney%20case-level) the CCSAO has made available. If you are interested in a particular table, feel free to download it now as well, following the steps above. Be sure to save it in the same folder as the Sentencing.csv file. 
 
 ## Day One 
 
