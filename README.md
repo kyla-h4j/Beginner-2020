@@ -77,14 +77,20 @@ In Day Two, you may choose to look into the Sentencing dataset more deeply, or e
 
 ## Day One 
 
-### Morning One
+Students can expect to spend Saturday morning each creating a small, fictional dataset of their own while they learn some of the building blocks of writing code in R. The whole class will be led by one Trainer at a time, but divided into small groups support by Coaches.
 
-### Afternoon One
+By the time lunch arrives, students will know how to create and manipulate vectors, matrices, and data frames, and apply simple logical operators and conditional statements. These basic tools are crucial to making sense of even the largest datasets.
+
+After lunch, students will take the skills they learned by building miniature easy-to-read datasets and start applying them to the real SAO Sentencing dataset – beginning by loading new packages into base-R and importing the SAO file.
+
+Understanding and interpreting data is a lot easier when you have defined all of the values yourself and you know what everything represents in the real world. Students will spend Saturday afternoon confronting an enormous, complex dataset that illustrates an enormous, complex justice system – and getting ready to start asking hard questions of the data themselves.
+
+Saturday wraps up with a community dinner as a class.
 
 ## Day Two
 
-### Morning Two
+Sunday is all about students digging into the real SAO datasets on their own terms and working to answer their own questions. After hearing from the SAO Data Team about (some of the) kinds of questions that the SAO is currently grappling with on a daily basis, students will be introduced to basic social science research methodology and each group will create their own research question to explore.
 
-### Afternoon Two
+After spending several hours doing hands-on research, groups will take turns presenting their findings to the class at large, asking questions of each other and cementing their new analytical skills.
 
-## After the Workshop
+Sunday concludes the Workshop with ideas for next steps that students can take in their growth as criminal justice data scientists.
