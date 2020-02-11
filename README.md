@@ -17,7 +17,6 @@ If you are new to GitHub, you can learn the basics of collaboration [here](https
   - [Download CCSAO Data](#download-ccsao-data)
 - [Day One](#day-one)
 - [Day Two](#day-two)
-- [After the Workshop](#after-the-workshop)
 
 ## Workshop Prep
 
