@@ -72,7 +72,7 @@ In Day Two, you may choose to look into the Sentencing dataset more deeply, or e
 
 ## Day One 
 
-You will spend Saturday morning creating a small, fictional dataset of your own to learn some of the building blocks of writing code in R. The whole class will be led by one trainer at a time, as well as dividing into small groups exercises with support from your assigned coach. By the time lunch arrives, you will have mastered vectors, matrices, and data frames, logical operators and conditional statements.
+You will spend Saturday morning creating a small, fictional dataset of your own to learn some of the building blocks of R programming. The whole class will be led by one trainer at a time, as well as dividing into small groups exercises with support from your assigned coach. By the time lunch arrives, you will have mastered vectors, matrices, and data frames, logical operators and conditional statements.
 
 After lunch, you will apply these skills to the actual SAO Sentencing dataset. Here, you will learn how to install packages from CRAN in order to make R functionality even more powerful. Saturday wraps up with a community dinner as a class.
 
