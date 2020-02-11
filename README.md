@@ -16,11 +16,7 @@ If you are new to GitHub, you can learn the basics of collaboration [here](https
   - [Download and Install RStudio](#download-and-install-r)
   - [Download CCSAO Data](#download-ccsao-data)
 - [Day One](#day-one)
-  - [Morning One](#morning-one)
-  - [Afternoon One](#fternoon-one)
 - [Day Two](#day-two)
-  - [Morning Two](#morning-two)
-  - [Afternoon Two](#afternoon-two)
 - [After the Workshop](#after-the-workshop)
 
 ## Workshop Prep
