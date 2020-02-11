@@ -76,8 +76,24 @@ You will spend Saturday morning creating a small, fictional dataset of your own 
 
 After lunch, you will apply these skills to the actual SAO Sentencing dataset. Here, you will learn how to install packages from CRAN in order to make R functionality even more powerful. Saturday wraps up with a community dinner as a class.
 
+Key Times on Saturday:
+- 8:00am: Doors open, breakfast arrives, participant sign-in begins
+- 9:00am: Welcome, Norms, & Participant Introductions
+- 9:30am: Modules 1
+- 12:15pm: Lunch & Discussion
+- 1:15pm: Modules 3 & 4
+- 6:00pm: Dinner & Socializing
+
 ## Day Two
 
 On Sunday, you will begin to develop your own research questions that can be answered with the SAO data. After spending several hours doing hands-on research, each group will take turns presenting your findings to the class at large to cement your new analytical skills.
 
 The workshop concludes with ideas for the next steps you can take in your growth as a criminal justice data scientist.
+
+Key Times on Sunday:
+- 8:00am: Doors open, breakfast arrives, participant sign-in begins
+- 9:00am: Day 2 Intro & Research Topics from the SAO
+- 9:30am: Designing Research Questions
+  Group-Work Time
+- 3:00pm: Group Presentations
+- 5:15pm: Next Steps & Wrap-up
