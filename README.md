@@ -24,7 +24,7 @@ In this section, you will learn some basics about R and get ready to dive into w
 
 ### What is R?
 
-R is a programming language. It is a powerful and accessible tool that will help you to understand quantitative data. Unlike other expensive software (e.g. SPSS, STATA), R is free and open-source. The R community is also very supportive, offering  help and examples to solve virtually any problem. Beyond this, community members also create and share new packages to increase R functionality. We'll learn how packages work during Day One. 
+R is a programming language. It is a powerful and accessible tool that will help you to understand quantitative data. Unlike other expensive software (e.g. SPSS, STATA), R is free and open-source. The R community is also very supportive, offering  help and examples to solve virtually any problem. Beyond this, community members also create and share new packages to increase R functionality.
 
 ![Rpop](Rpop.png)
 
