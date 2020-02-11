@@ -30,7 +30,7 @@ R is a programming language. It is a powerful and accessible tool that will help
 
 ### Download and Install R
 
-First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. We will learn more about CRAN when we learn about packages in Day One. For now, follow the appropriate links depending if you are on a Mac or Windows machine. For example, a Mac user would click here:
+First, you will need to download R on your computer from [CRAN](https://cran.r-project.org/), short for the **C**omprehensive **R** **A**rchive **N**etwork. You will learn more about CRAN in Day One. For now, follow the appropriate links depending if you are on a Mac or Windows machine. For example, a Mac user would click here:
 
 ![cran1](cran1.png)
 
