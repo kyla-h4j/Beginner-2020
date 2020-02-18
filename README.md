@@ -79,7 +79,7 @@ After lunch, you will apply these skills to the actual SAO Sentencing dataset. H
 Key Times on Saturday:
 - 8:00am: Doors open, breakfast arrives, participant sign-in begins
 - 9:00am: Welcome, Norms, & Participant Introductions
-- 9:30am: Modules 1
+- 9:30am: Modules 1 & 2
 - 12:15pm: Lunch & Discussion
 - 1:15pm: Modules 3 & 4
 - 6:00pm: Dinner & Socializing
@@ -94,6 +94,6 @@ Key Times on Sunday:
 - 8:00am: Doors open, breakfast arrives, participant sign-in begins
 - 9:00am: Day 2 Intro & Research Topics from the SAO
 - 9:30am: Designing Research Questions
-  Group-Work Time
+  Group-Work Time & Lunch
 - 3:00pm: Group Presentations
 - 5:15pm: Next Steps & Wrap-up
