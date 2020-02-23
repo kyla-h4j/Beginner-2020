@@ -6,6 +6,10 @@ library(dplyr) #manipulating data
 df.sent <- read.csv("Sentencing.csv", header = TRUE)
 names(df.sent) <- tolower(names(df.sent)) # set col names to lower to avoid typos
 
+#we only want current sentences
+df.sent <- df.sent[df.sent$current_sentence == "true",]
+
+
 ###Example 1###
 
 #How has the average age of those charged with UUW - Unlawful Use of Weapon changed over time?
@@ -67,6 +71,10 @@ hist(df$sentence_length)
 
 #look only at 2011-2019
 df <- df[(df$sentence_year > 2010) & (df$sentence_year < 2020),]
+
+#get one sentence per case_participant_id
+isIDmax <- with(df, ave(sentence_length, case_participant_id, FUN=function(x) seq_along(x)==which.max(x)))==1
+df <- df[isIDmax, ]
 
 #get average sentence length by year
 result2 <- with(df, aggregate(sentence_length, list(sentence_year), mean))
